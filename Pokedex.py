@@ -44,7 +44,7 @@ def show_pokemon_info(pokemon_data):
     print(f"Nombre: {name}")
     print(f"Peso: {weight}")
     print(f"Altura: {height}")
-    print("Moves:", ', '.join(moves))
+    print("Movimientos:", ', '.join(moves))
     print("Habilidades:", ', '.join(abilities))
     print("Tipos:", ', '.join(types))
     
