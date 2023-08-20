@@ -36,7 +36,9 @@ python pokedex.py
 
 5. También se guardará una imagen del Pokémon en un archivo PNG en el directorio `pokedex`.
 
-6. Se abrirá la imagen en el visor de imágenes predeterminado de tu sistema operativo.
+6. Se creara un Archivo .json con las caracteristicas buscadas del pokemon.
+
+7. Se abrirá la imagen en el visor de imágenes predeterminado de tu sistema operativo.
 
 ## Aprendizaje
 
